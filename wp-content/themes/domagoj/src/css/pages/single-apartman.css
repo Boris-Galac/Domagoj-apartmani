@@ -1,0 +1,74 @@
+.luna-main {
+  background-color: var(--apartmani-background-clr);
+}
+.luna__wrapper {
+  display: grid;
+  padding-block: 3rem;
+  gap: 2rem;
+}
+.apartmani__thumbnail--banner {
+  height: 30vh;
+  border-radius: 0;
+  user-select: none;
+}
+.apartmani__thumbnail--banner:hover {
+  cursor: auto;
+}
+.apartmani__thumbnail--banner:hover .apartmani__overlay {
+  scale: unset;
+}
+.luna__header {
+  display: grid;
+  gap: 1rem;
+}
+.luna-header__info {
+  display: flex;
+  align-items: self-start;
+  gap: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.15);
+  padding: 1rem;
+  border-radius: 5px;
+}
+.luna-header__info--single {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: rgba(0, 0, 0, 0.15);
+  padding: 1rem;
+  border-radius: 5px;
+  width: 100%;
+}
+.luna-header__info img {
+  object-fit: contain;
+}
+.luna-header__info-row {
+  display: grid;
+  gap: 0.5rem;
+}
+.luna-header__info-list {
+  display: grid;
+  gap: 0.5rem;
+}
+.luna-header__info-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.luna__body-text {
+  display: grid;
+  gap: 1.5rem;
+}
+.luna-header__info--single-adresa {
+  border: 2px solid var(--white);
+}
+@media (min-width: 1100px) {
+  .luna-header__info-wrapper {
+    flex-direction: row;
+  }
+  .luna-header__info--single-max-width {
+    width: max-content;
+  }
+  .luna__wrapper {
+    padding-block: 6rem;
+  }
+}
