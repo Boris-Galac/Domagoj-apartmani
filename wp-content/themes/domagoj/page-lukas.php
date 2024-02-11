@@ -76,7 +76,7 @@
                     <img src="/wp-content/themes/domagoj/src/assets/icons/location-white-icon.svg" aria-hidden="true" />
                     <div class="luna-header__info-row">
                         <p class="bright-text">
-                            32100 Vinkovci, Josip Juraj Strossmayer 6
+                            32100 Vinkovci, Josipa Jurja Strossmayera 6
                         </p>
                     </div>
                 </div>

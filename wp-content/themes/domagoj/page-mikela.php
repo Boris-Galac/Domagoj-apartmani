@@ -22,7 +22,7 @@
                                 </li>
                                 <li>
                                     👉 Dnevnim boravkom sa blagovaonom (u dnevnom boravku je
-                                    sofa koja se razvlači)/li>
+                                    sofa koja se razvlači).
                                 </li>
                                 <li>
                                     👉 Kuhinja je u potpunosti opremljena sa svim potrebnim

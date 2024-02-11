@@ -77,7 +77,7 @@
                     class="luna-header__info--single luna-header__info--single-max-width luna-header__info--single-adresa">
                     <img src="/wp-content/themes/domagoj/src/assets/icons/location-white-icon.svg" aria-hidden="true" />
                     <div class="luna-header__info-row">
-                        <p class="bright-text">32100 Vinkovci, Zagrebačka 10</p>
+                        <p class="bright-text">32100 Vinkovci, Zagrebačka 16</p>
                     </div>
                 </div>
                 <div class="gallery">

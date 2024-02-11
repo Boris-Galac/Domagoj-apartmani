@@ -12,23 +12,21 @@
                         <img src="/wp-content/themes/domagoj/src/assets/icons/bed-white-icon.svg" aria-hidden="true" />
                         <div class="luna-header__info-row">
                             <p class="bright-text">
-                                Apartman se nalazi u prizemlju stambene zgrade i sastoji se
+                                Apartman se nalazi na 1. katu stambene zgrade i sastoji se
                                 od
                             </p>
                             <ul class="luna-header__info-list">
                                 <li>
-                                    👉 Spavaće soba (sa bračnim krevetom i krevetom za jednu
-                                    osobu)
+                                    👉 Spavaća soba s bračnim krevetom.
                                 </li>
                                 <li>
-                                    👉 Dnevnim boravkom sa blagovaonom (u dnevnom boravku je
-                                    sofa koja se razvlači)/li>
+                                    👉 Dnevnim boravkom sa blagovaonom.
                                 </li>
                                 <li>
                                     👉 Kuhinja je u potpunosti opremljena sa svim potrebnim
                                     stvarima.
                                 </li>
-                                <li>👉 Kupaonica sa walk-in tušem</li>
+                                <li>👉 Kupaonica s tuš kabinom.</li>
                             </ul>
                         </div>
                     </div>
@@ -85,7 +83,7 @@
                     class="luna-header__info--single luna-header__info--single-max-width luna-header__info--single-adresa">
                     <img src="/wp-content/themes/domagoj/src/assets/icons/location-white-icon.svg" aria-hidden="true" />
                     <div class="luna-header__info-row">
-                        <p class="bright-text">32100 Vinkovci, Antun Branko Šimić 10</p>
+                        <p class="bright-text">32100 Vinkovci, Zagrebačka 16</p>
                     </div>
                 </div>
                 <div class="gallery">

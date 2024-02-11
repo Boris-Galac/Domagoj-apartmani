@@ -11,7 +11,7 @@
                                 Odmorite i uživajte u našim udobnim apartmanima
                             </h1>
                             <p class="hero__subheadine">
-                                Odaberite za odmor jedan od naših četiri apartmana u
+                                Odaberite za odmor jedan od naša četiri apartmana u
                                 neposrednoj blizini samog centra grada Vinkovaca i nećete
                                 požaliti
                             </p>
@@ -77,28 +77,28 @@
                 </div>
             </div>
             <div class="apartmani__body">
-                <a href="luna.html">
+                <a href="<?php echo site_url('luna') ?>">
                     <figure class="apartmani__thumbnail">
                         <img src="/wp-content/themes/domagoj/src/assets/images/luna-apartman-img.png"
                             class="apartmani__overlay" />
                         <h2 class="h2-heading apartmani-thumbnail__heading">Luna</h2>
                     </figure>
                 </a>
-                <a href="mikela.html">
+                <a href="<?php echo site_url('mikela') ?>">
                     <figure class="apartmani__thumbnail">
                         <img src="/wp-content/themes/domagoj/src/assets/images/mikela-apartman-img.png"
                             class="apartmani__overlay" />
                         <h2 class="h2-heading apartmani-thumbnail__heading">Mikela</h2>
                     </figure>
                 </a>
-                <a href="sven.html">
+                <a href="<?php echo site_url('sven') ?>">
                     <figure class="apartmani__thumbnail">
                         <img src="/wp-content/themes/domagoj/src/assets/images/sven-apartman-img.png"
                             class="apartmani__overlay" />
                         <h2 class="h2-heading apartmani-thumbnail__heading">Sven</h2>
                     </figure>
                 </a>
-                <a href="lukas.html">
+                <a href="<?php echo site_url('lukas') ?>">
                     <figure class="apartmani__thumbnail">
                         <img src="/wp-content/themes/domagoj/src/assets/images/lukas-apartman-img.png"
                             class="apartmani__overlay" />
